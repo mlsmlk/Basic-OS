@@ -1,0 +1,4 @@
+set z 3
+print z
+set z 3
+print z

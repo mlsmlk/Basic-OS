@@ -1,0 +1,8 @@
+help
+set x 1
+set y 1
+print y
+print x
+set x 2
+print x
+quit

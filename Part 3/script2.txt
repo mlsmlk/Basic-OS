@@ -1,0 +1,32 @@
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set y 2
+print y
+set y 2
+print y
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
+set x 2
+print x
